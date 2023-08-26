@@ -1,2 +1,2 @@
-# ActividadesCurso Grupo1 AnaPatiño
+# ActividadesCurso Grupo2 AnaPatiño
 Actividades Career Booster BackEnd
